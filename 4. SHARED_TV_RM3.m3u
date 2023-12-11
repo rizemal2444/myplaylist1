@@ -123,6 +123,12 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
+#EXTM3U
+#EXT-X-TARGETDURATION:65535
+#EXT-X-VERSION:2
+#EXTINF:65535,
+http://hotz.vip:2082/live/encikred/red123/6581.m3u8
+
 MOVIES 
 
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
