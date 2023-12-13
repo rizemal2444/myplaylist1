@@ -1,5 +1,6 @@
 # myplaylist1
-# this is for education only
+# This is for education and private use only
+# Not for sale or share
 
 
-# use this link ----> https://shorturl.at/hnQU7
+# Use this link ----> https://shorturl.at/hnQU7
